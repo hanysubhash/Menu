@@ -1,2 +1,2 @@
 # Menu
-Assignment of coursera course on we developmet
+Assignment of coursera course on web developmet
